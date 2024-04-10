@@ -74,3 +74,4 @@ Execute the test suite using TestNG. Make sure the ChromeDriver is properly conf
 Operating System: Mac OS
 Browser: Google Chrome [123.0.6312.107]
 Java Version: [22]
+Chromedriver version: [123.0.6312.105]
