@@ -29,7 +29,7 @@ Ensure you have the following dependencies installed:
 
 ## Implemented Tests
 
-## Test1 
+## Test1- testUserAuthentication
 
 - Navigate to the Home Page: Opens the web page in the browser, through @BeforeClass
 - Assert Element Presence: Finds email input field, password input field and Login button through properly formatted selectors, and assert their presence through assertTrue Method of TetNG
