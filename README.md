@@ -33,7 +33,7 @@ Ensure you have the following dependencies installed:
 
 - Navigate to the Home Page: Opens the web page in the browser, through @BeforeClass
 - Assert Element Presence: Finds email input field, password input field and Login button through properly formatted selectors, and assert their presence through assertTrue Method of TetNG
-- Enter Value in Email & Password field: Fills Email and password field through sendkeys method
+- Enter Value in Email & Password field: Fills Email and password field through sendkeys method and clicks on Login button
 
 ## Test2- testListGroupValidation
 
